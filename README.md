@@ -30,6 +30,8 @@ Enter your username: Bob
 Hi Alice!
 ```
 
+https://github.com/user-attachments/assets/ce011557-f653-4991-9c5c-efcefd6f75a8
+
 ## Extensions
 1. **Message History**: Persist messages to PostgreSQL/MongoDB.
 2. **Error Handling**: Add dead-letter topics for failed messages.
