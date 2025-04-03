@@ -30,7 +30,7 @@ Enter your username: Bob
 Hi Alice!
 ```
 
-https://github.com/user-attachments/assets/ce011557-f653-4991-9c5c-efcefd6f75a8
+https://github.com/user-attachments/assets/7176daf1-c580-4d57-94ba-2833570c2d0a
 
 ## Extensions
 1. **Message History**: Persist messages to PostgreSQL/MongoDB.
